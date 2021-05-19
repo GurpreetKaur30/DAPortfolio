@@ -1,7 +1,3 @@
----
-title: Gurpreet Kaur
----
-
 # Welcome to my Portfolio !
 
 # About Me 
